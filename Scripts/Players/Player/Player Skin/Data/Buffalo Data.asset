@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a068a49d0a4422790024d3f0c08e8e5, type: 3}
+  m_Name: Buffalo Data
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 2
+  <HeadPrefab>k__BackingField: {fileID: 1260511367756866528, guid: 3ae86951d6d0b24488b0956f2e14fdef, type: 3}
+  <BodyMaterial>k__BackingField: {fileID: 2100000, guid: 8713c2cfb83cca34a9afcf9dbc72c15a, type: 2}
